@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Testimonials-Grid/static/css/main.2a5315ee.css",
+    "main.js": "/Testimonials-Grid/static/js/main.90e03d82.js",
+    "static/js/787.6966d2df.chunk.js": "/Testimonials-Grid/static/js/787.6966d2df.chunk.js",
+    "index.html": "/Testimonials-Grid/index.html",
+    "static/media/bg-pattern-quotation.svg": "/Testimonials-Grid/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.2a5315ee.css.map": "/Testimonials-Grid/static/css/main.2a5315ee.css.map",
+    "main.90e03d82.js.map": "/Testimonials-Grid/static/js/main.90e03d82.js.map",
+    "787.6966d2df.chunk.js.map": "/Testimonials-Grid/static/js/787.6966d2df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a5315ee.css",
+    "static/js/main.90e03d82.js"
+  ]
+}
