@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Testimonials-Grid/static/css/main.213ef17d.css",
-    "main.js": "/Testimonials-Grid/static/js/main.90e03d82.js",
-    "static/js/787.6966d2df.chunk.js": "/Testimonials-Grid/static/js/787.6966d2df.chunk.js",
-    "index.html": "/Testimonials-Grid/index.html",
-    "static/media/bg-pattern-quotation.svg": "/Testimonials-Grid/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
-    "main.213ef17d.css.map": "/Testimonials-Grid/static/css/main.213ef17d.css.map",
-    "main.90e03d82.js.map": "/Testimonials-Grid/static/js/main.90e03d82.js.map",
-    "787.6966d2df.chunk.js.map": "/Testimonials-Grid/static/js/787.6966d2df.chunk.js.map"
+    "main.css": "/podcast/static/css/main.9b678c38.css",
+    "main.js": "/podcast/static/js/main.da3ab1cd.js",
+    "static/js/787.6966d2df.chunk.js": "/podcast/static/js/787.6966d2df.chunk.js",
+    "index.html": "/podcast/index.html",
+    "static/media/bg-pattern-quotation.svg": "/podcast/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.9b678c38.css.map": "/podcast/static/css/main.9b678c38.css.map",
+    "main.da3ab1cd.js.map": "/podcast/static/js/main.da3ab1cd.js.map",
+    "787.6966d2df.chunk.js.map": "/podcast/static/js/787.6966d2df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.213ef17d.css",
-    "static/js/main.90e03d82.js"
+    "static/css/main.9b678c38.css",
+    "static/js/main.da3ab1cd.js"
   ]
 }
